@@ -1,0 +1,4 @@
+Django>=5.0.7
+pywebpush>=1.14.0
+py-vapid>=1.9.0
+cryptography>=41.0.0 
